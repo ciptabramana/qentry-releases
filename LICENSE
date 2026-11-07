@@ -1,0 +1,270 @@
+PERJANJIAN LISENSI PERANGKAT LUNAK QENTRY
+QENTRY SOFTWARE LICENSE AGREEMENT
+
+Hak Cipta (c) 2026 Cipta Bramana. Hak cipta dilindungi undang-undang.
+Copyright (c) 2026 Cipta Bramana. All rights reserved.
+
+Perjanjian ini dibuat dalam Bahasa Indonesia dan Bahasa Inggris. Jika terdapat
+perbedaan penafsiran, versi Bahasa Indonesia yang berlaku (Pasal 12).
+This agreement is made in Indonesian and English. If the two differ, the
+Indonesian version prevails (Section 12).
+
+===============================================================================
+BAHASA INDONESIA
+===============================================================================
+
+Dengan memasang, menyalin, atau menggunakan Perangkat Lunak, Pemegang Lisensi
+menyetujui Perjanjian ini. Jika tidak setuju, jangan memasang atau menggunakan
+Perangkat Lunak.
+
+1. DEFINISI
+   a. "Pemberi Lisensi": Cipta Bramana, pemilik hak cipta Perangkat Lunak.
+   b. "Pemasok": pihak yang ditunjuk Pemberi Lisensi untuk menjual, memasang,
+      atau mendukung Perangkat Lunak.
+   c. "Pemegang Lisensi": orang atau badan usaha yang memperoleh Perangkat
+      Lunak dari Pemberi Lisensi atau Pemasok.
+   d. "Perangkat Lunak": QEntry, termasuk aplikasi server, aplikasi dashboard,
+      caller, display, counter display, kiosk dan resto, image Docker, skrip,
+      rekaman suara, dokumentasi, serta setiap pembaruannya.
+   e. "Server": satu komputer yang ID mesinnya tercantum pada Kunci Lisensi.
+   f. "Kunci Lisensi": kode aktivasi yang diterbitkan Pemberi Lisensi untuk
+      satu Server dan masa berlaku tertentu.
+   g. "Pesanan": penawaran, faktur, atau perjanjian tertulis lain yang memuat
+      ketentuan komersial lisensi (harga, masa berlaku, jumlah Server).
+
+2. PEMBERIAN LISENSI
+   Selama Kunci Lisensi berlaku dan Pemegang Lisensi mematuhi Perjanjian ini,
+   Pemberi Lisensi memberikan hak yang tidak eksklusif, tidak dapat dialihkan,
+   dan tidak dapat disublisensikan untuk:
+   a. memasang dan menjalankan Perangkat Lunak pada Server yang tercantum pada
+      Kunci Lisensi; dan
+   b. menggunakan aplikasi klien (dashboard, caller, display, counter display,
+      kiosk, resto) pada perangkat yang terhubung ke Server tersebut,
+   semata-mata untuk keperluan operasional internal Pemegang Lisensi dalam
+   mengelola antrean di lokasinya sendiri. Batas jumlah perangkat, cabang,
+   atau pengguna hanya berlaku jika dicantumkan dalam Pesanan.
+
+3. LARANGAN
+   Kecuali diizinkan secara tertulis oleh Pemberi Lisensi atau oleh peraturan
+   perundang-undangan yang tidak dapat dikesampingkan, Pemegang Lisensi
+   dilarang:
+   a. menyalin Perangkat Lunak, selain untuk pemasangan pada Server dan
+      cadangan yang wajar;
+   b. mengubah, menerjemahkan, membongkar (reverse engineering), mendekompilasi,
+      atau membuat karya turunan dari Perangkat Lunak;
+   c. menghindari, menonaktifkan, atau mengubah Kunci Lisensi atau mekanisme
+      pemeriksaan lisensi;
+   d. menjual, menyewakan, meminjamkan, mendistribusikan, mensublisensikan,
+      atau menyediakan Perangkat Lunak kepada pihak ketiga, termasuk sebagai
+      layanan hosting atau SaaS;
+   e. menghapus atau mengubah pemberitahuan hak cipta, merek, atau lisensi;
+   f. menggunakan Perangkat Lunak untuk membuat produk yang bersaing.
+
+4. KEPEMILIKAN
+   Perangkat Lunak dilisensikan, bukan dijual. Seluruh hak cipta dan hak
+   kekayaan intelektual lain atas Perangkat Lunak tetap dimiliki Pemberi
+   Lisensi dan dilindungi antara lain oleh Undang-Undang Nomor 28 Tahun 2014
+   tentang Hak Cipta. Hak yang tidak diberikan secara tegas dalam Perjanjian
+   ini tetap menjadi milik Pemberi Lisensi.
+
+5. DATA PEMEGANG LISENSI
+   a. Data yang dimasukkan atau dihasilkan Pemegang Lisensi (antara lain data
+      tiket, cabang, pengguna, pelanggan, media, dan laporan) adalah milik
+      Pemegang Lisensi dan disimpan pada Server milik Pemegang Lisensi.
+   b. Pemegang Lisensi adalah pengendali data pribadi atas data pribadi yang
+      diprosesnya dengan Perangkat Lunak, dan bertanggung jawab atas kepatuhan
+      terhadap Undang-Undang Nomor 27 Tahun 2022 tentang Pelindungan Data
+      Pribadi, termasuk dasar pemrosesan dan pemberitahuan kepada subjek data.
+   c. Perangkat Lunak tidak mengirimkan data Pemegang Lisensi kepada Pemberi
+      Lisensi. Data yang diberikan Pemegang Lisensi untuk keperluan dukungan
+      teknis hanya digunakan untuk dukungan tersebut.
+   d. Pemegang Lisensi bertanggung jawab membuat cadangan data secara berkala
+      (lihat SERVER_GUIDE).
+
+6. KOMPONEN PIHAK KETIGA
+   Perangkat Lunak memuat komponen sumber terbuka yang tunduk pada lisensinya
+   masing-masing, sebagaimana tercantum dalam THIRD_PARTY_NOTICES.md.
+   Perjanjian ini tidak membatasi hak Pemegang Lisensi berdasarkan lisensi
+   komponen tersebut. Jika suatu lisensi pihak ketiga mewajibkan tersedianya
+   kode sumber komponen tersebut, kode sumber itu tersedia sebagaimana
+   dijelaskan dalam THIRD_PARTY_NOTICES.md.
+
+7. DUKUNGAN DAN PEMBARUAN
+   Dukungan teknis, pemasangan, dan pembaruan tidak termasuk dalam Perjanjian
+   ini kecuali disepakati dalam Pesanan atau perjanjian tertulis lain dengan
+   Pemberi Lisensi atau Pemasok. Setiap pembaruan yang diberikan tunduk pada
+   Perjanjian ini.
+
+8. JAMINAN
+   Sepanjang diizinkan oleh hukum, Perangkat Lunak disediakan "sebagaimana
+   adanya" tanpa jaminan apa pun, baik tersurat maupun tersirat, termasuk
+   jaminan kelayakan untuk diperdagangkan, kesesuaian untuk tujuan tertentu,
+   atau bebas dari gangguan dan kesalahan. Jaminan yang diberikan Pemasok
+   adalah tanggung jawab Pemasok sendiri dan tidak mengikat Pemberi Lisensi.
+
+9. BATASAN TANGGUNG JAWAB
+   a. Sepanjang diizinkan oleh hukum, Pemberi Lisensi tidak bertanggung jawab
+      atas kerugian tidak langsung, insidental, khusus, atau konsekuensial,
+      termasuk kehilangan keuntungan, pendapatan, data, atau gangguan usaha.
+   b. Total tanggung jawab Pemberi Lisensi atas segala klaim yang berkaitan
+      dengan Perangkat Lunak tidak melebihi biaya lisensi yang dibayarkan
+      Pemegang Lisensi untuk Perangkat Lunak dalam 12 (dua belas) bulan
+      sebelum peristiwa yang menimbulkan klaim.
+   c. Batasan ini tidak berlaku atas tanggung jawab yang menurut hukum tidak
+      dapat dibatasi, termasuk akibat kesengajaan atau kelalaian berat.
+
+10. JANGKA WAKTU DAN PENGAKHIRAN
+    a. Perjanjian ini berlaku sejak Perangkat Lunak dipasang atau digunakan,
+       dan berakhir ketika masa berlaku Kunci Lisensi habis tanpa
+       diperpanjang.
+    b. Pemberi Lisensi dapat mengakhiri Perjanjian ini jika Pemegang Lisensi
+       melanggarnya dan tidak memperbaiki pelanggaran tersebut dalam 14 (empat
+       belas) hari setelah pemberitahuan tertulis. Pelanggaran Pasal 3 huruf c
+       atau d dapat mengakhiri Perjanjian ini seketika.
+    c. Setelah Perjanjian berakhir, Pemegang Lisensi wajib berhenti
+       menggunakan dan menghapus Perangkat Lunak. Pemegang Lisensi tetap dapat
+       mengekspor datanya sendiri sebelum menghapus Perangkat Lunak.
+    d. Pasal 3, 4, 5, 6, 8, 9, 11, dan 12 tetap berlaku setelah Perjanjian
+       berakhir.
+
+11. HUKUM YANG BERLAKU DAN PENYELESAIAN SENGKETA
+    Perjanjian ini tunduk pada hukum Negara Republik Indonesia. Sengketa
+    diselesaikan terlebih dahulu secara musyawarah dalam 30 (tiga puluh) hari.
+    Jika tidak tercapai kesepakatan, sengketa diselesaikan melalui Pengadilan
+    Negeri yang wilayah hukumnya meliputi domisili Pemberi Lisensi.
+
+12. BAHASA
+    Perjanjian ini dibuat dalam Bahasa Indonesia dan Bahasa Inggris sesuai
+    Undang-Undang Nomor 24 Tahun 2009. Jika terdapat perbedaan atau
+    pertentangan antara kedua versi, versi Bahasa Indonesia yang berlaku.
+
+13. KESELURUHAN PERJANJIAN
+    Perjanjian ini bersama Pesanan merupakan keseluruhan kesepakatan mengenai
+    lisensi Perangkat Lunak. Jika terdapat pertentangan mengenai ketentuan
+    komersial (harga, masa berlaku, jumlah Server, atau batas penggunaan),
+    Pesanan yang berlaku. Jika suatu ketentuan dinyatakan tidak sah, ketentuan
+    lainnya tetap berlaku.
+
+===============================================================================
+ENGLISH
+===============================================================================
+
+By installing, copying, or using the Software, the Licensee agrees to this
+Agreement. If you do not agree, do not install or use the Software.
+
+1. DEFINITIONS
+   a. "Licensor": Cipta Bramana, the copyright owner of the Software.
+   b. "Supplier": a party appointed by the Licensor to sell, install, or
+      support the Software.
+   c. "Licensee": the person or business entity that obtained the Software
+      from the Licensor or a Supplier.
+   d. "Software": QEntry, including the server application, the dashboard,
+      caller, display, counter display, kiosk and resto applications, Docker
+      images, scripts, voice recordings, documentation, and all updates.
+   e. "Server": one computer whose machine ID is stated in the License Key.
+   f. "License Key": the activation code issued by the Licensor for one Server
+      and a given period.
+   g. "Order": a quotation, invoice, or other written agreement stating the
+      commercial terms of the license (price, period, number of Servers).
+
+2. LICENSE GRANT
+   While the License Key is valid and the Licensee complies with this
+   Agreement, the Licensor grants a non-exclusive, non-transferable,
+   non-sublicensable right to:
+   a. install and run the Software on the Server stated in the License Key;
+      and
+   b. use the client applications (dashboard, caller, display, counter
+      display, kiosk, resto) on devices connected to that Server,
+   solely for the Licensee's internal business operations in managing queues
+   at its own locations. Limits on devices, branches, or users apply only if
+   stated in the Order.
+
+3. RESTRICTIONS
+   Except as permitted in writing by the Licensor or by mandatory law, the
+   Licensee shall not:
+   a. copy the Software, other than to install it on the Server and to make
+      reasonable backups;
+   b. modify, translate, reverse engineer, decompile, or create derivative
+      works of the Software;
+   c. circumvent, disable, or alter the License Key or the license checks;
+   d. sell, rent, lend, distribute, sublicense, or make the Software available
+      to any third party, including as a hosted or SaaS service;
+   e. remove or alter any copyright, trademark, or license notice;
+   f. use the Software to build a competing product.
+
+4. OWNERSHIP
+   The Software is licensed, not sold. All copyright and other intellectual
+   property rights in the Software remain with the Licensor and are protected,
+   among others, by Law No. 28 of 2014 on Copyright. All rights not expressly
+   granted in this Agreement are reserved by the Licensor.
+
+5. LICENSEE DATA
+   a. Data entered or generated by the Licensee (including tickets, branches,
+      users, customers, media, and reports) belongs to the Licensee and is
+      stored on the Licensee's Server.
+   b. The Licensee is the personal data controller for personal data it
+      processes with the Software, and is responsible for complying with Law
+      No. 27 of 2022 on Personal Data Protection, including the legal basis
+      for processing and notices to data subjects.
+   c. The Software does not send the Licensee's data to the Licensor. Data the
+      Licensee provides for technical support is used only for that support.
+   d. The Licensee is responsible for regular backups (see SERVER_GUIDE).
+
+6. THIRD-PARTY COMPONENTS
+   The Software includes open-source components governed by their own
+   licenses, as listed in THIRD_PARTY_NOTICES.md. This Agreement does not
+   limit the Licensee's rights under those licenses. Where a third-party
+   license requires that the component's source code be made available, it is
+   available as described in THIRD_PARTY_NOTICES.md.
+
+7. SUPPORT AND UPDATES
+   Technical support, installation, and updates are not included in this
+   Agreement unless agreed in an Order or another written agreement with the
+   Licensor or a Supplier. Any update provided is subject to this Agreement.
+
+8. WARRANTY
+   To the extent permitted by law, the Software is provided "as is" without
+   warranty of any kind, express or implied, including warranties of
+   merchantability, fitness for a particular purpose, or uninterrupted or
+   error-free operation. Any warranty given by a Supplier is the Supplier's
+   own responsibility and does not bind the Licensor.
+
+9. LIMITATION OF LIABILITY
+   a. To the extent permitted by law, the Licensor is not liable for any
+      indirect, incidental, special, or consequential damages, including lost
+      profits, revenue, or data, or business interruption.
+   b. The Licensor's total liability for all claims relating to the Software
+      shall not exceed the license fees paid by the Licensee for the Software
+      in the 12 (twelve) months before the event giving rise to the claim.
+   c. These limits do not apply to liability that cannot be limited by law,
+      including liability for wilful misconduct or gross negligence.
+
+10. TERM AND TERMINATION
+    a. This Agreement takes effect when the Software is installed or used, and
+       ends when the License Key's period expires without renewal.
+    b. The Licensor may terminate this Agreement if the Licensee breaches it
+       and does not cure the breach within 14 (fourteen) days of written
+       notice. A breach of Section 3(c) or 3(d) may terminate this Agreement
+       immediately.
+    c. When this Agreement ends, the Licensee shall stop using and delete the
+       Software. The Licensee may export its own data before deleting the
+       Software.
+    d. Sections 3, 4, 5, 6, 8, 9, 11, and 12 survive termination.
+
+11. GOVERNING LAW AND DISPUTES
+    This Agreement is governed by the laws of the Republic of Indonesia.
+    Disputes shall first be settled by amicable deliberation (musyawarah)
+    within 30 (thirty) days. Failing agreement, disputes shall be settled by
+    the District Court (Pengadilan Negeri) with jurisdiction over the
+    Licensor's domicile.
+
+12. LANGUAGE
+    This Agreement is made in Indonesian and English in accordance with Law
+    No. 24 of 2009. If the two versions differ or conflict, the Indonesian
+    version prevails.
+
+13. ENTIRE AGREEMENT
+    This Agreement and the Order form the entire agreement on the license of
+    the Software. If they conflict on commercial terms (price, period, number
+    of Servers, or usage limits), the Order prevails. If any provision is held
+    invalid, the remaining provisions remain in effect.
